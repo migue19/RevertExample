@@ -1,3 +1,5 @@
+config.json
+*.exe
 # Object file
 *.o
 
